@@ -18,7 +18,6 @@ namespace Qase_Test.Core.Browser.Service
         {
             switch (BrowserSettings.Browser.ToLower())
             {
-                //DEV_NOTE: I will realise more browsers (FireFox)
                 case Chrome:
                     Driver ??= new ChromeDriver(GetChromeOptions());
                     break;
