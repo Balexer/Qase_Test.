@@ -6,7 +6,7 @@ using Qase_Test.Models;
 using Qase_Test.Pages.Case;
 using Qase_Test.Pages.Project;
 using Qase_Test.Steps.UiSteps;
-using Qase_Test.Tests.Base;
+using Qase_Test.Tests.BaseUiTest;
 
 namespace Qase_Test.Tests.UiTests
 {

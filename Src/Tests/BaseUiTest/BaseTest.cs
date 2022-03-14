@@ -6,7 +6,7 @@ using Qase_Test.Core.Browser;
 using Qase_Test.Core.Browser.Service;
 using Qase_Test.Models;
 
-namespace Qase_Test.Tests.Base
+namespace Qase_Test.Tests.BaseUiTest
 {
     [AllureNUnit]
     [AllureTag("Functional")]
