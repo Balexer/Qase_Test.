@@ -2,7 +2,7 @@ using Bogus;
 using Qase_Test.Constants;
 using Qase_Test.Models;
 
-namespace Qase_Test.Fakers
+namespace Qase_Test.Utils
 {
     public static class TestDataGeneratorService
     {

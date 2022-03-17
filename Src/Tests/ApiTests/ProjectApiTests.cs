@@ -5,9 +5,9 @@ using NUnit.Allure.Attributes;
 using NUnit.Allure.Core;
 using NUnit.Framework;
 using Qase_Test.Core;
-using Qase_Test.Fakers;
 using Qase_Test.Models;
 using Qase_Test.Steps.ApiSteps;
+using Qase_Test.Utils;
 
 namespace Qase_Test.Tests.ApiTests
 {

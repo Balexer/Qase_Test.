@@ -1,13 +1,13 @@
 using FluentAssertions;
 using NUnit.Allure.Attributes;
 using NUnit.Framework;
-using Qase_Test.Fakers;
 using Qase_Test.Models;
 using Qase_Test.Pages;
 using Qase_Test.Pages.Base;
 using Qase_Test.Pages.Project;
 using Qase_Test.Steps.UiSteps;
 using Qase_Test.Tests.BaseUiTest;
+using Qase_Test.Utils;
 
 namespace Qase_Test.Tests.UiTests
 {
